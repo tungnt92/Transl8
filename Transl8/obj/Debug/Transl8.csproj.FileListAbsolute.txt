@@ -1,0 +1,136 @@
+E:\App Project\Transl8\Transl8\Bin\Debug\Assets\ApplicationIcon.png
+E:\App Project\Transl8\Transl8\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+E:\App Project\Transl8\Transl8\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+E:\App Project\Transl8\Transl8\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+E:\App Project\Transl8\Transl8\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+E:\App Project\Transl8\Transl8\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+E:\App Project\Transl8\Transl8\Bin\Debug\Transl8.dll
+E:\App Project\Transl8\Transl8\Bin\Debug\Transl8.pdb
+E:\App Project\Transl8\Transl8\Bin\Debug\AppManifest.xaml
+E:\App Project\Transl8\Transl8\Bin\Debug\Properties\WMAppManifest.xml
+E:\App Project\Transl8\Transl8\Bin\Debug\Transl8_Debug_AnyCPU.xap
+E:\App Project\Transl8\Transl8\obj\Debug\App.g.cs
+E:\App Project\Transl8\Transl8\obj\Debug\Transl8.g.resources
+E:\App Project\Transl8\Transl8\obj\Debug\Transl8.Resources.AppResources.resources
+E:\App Project\Transl8\Transl8\obj\Debug\Transl8.csproj.GenerateResource.Cache
+E:\App Project\Transl8\Transl8\obj\Debug\Transl8.dll
+E:\App Project\Transl8\Transl8\obj\Debug\Transl8.pdb
+E:\App Project\Transl8\Transl8\obj\Debug\XapCacheFile.xml
+E:\App Project\Transl8\Transl8\obj\Debug\Pages\MainPage.g.cs
+E:\App Project\Transl8\Transl8\Bin\Debug\Coding4Fun.Toolkit.Controls.dll
+E:\App Project\Transl8\Transl8\Bin\Debug\Coding4Fun.Toolkit.dll
+E:\App Project\Transl8\Transl8\Bin\Debug\cs\Coding4Fun.Toolkit.Controls.resources.dll
+E:\App Project\Transl8\Transl8\Bin\Debug\da\Coding4Fun.Toolkit.Controls.resources.dll
+E:\App Project\Transl8\Transl8\Bin\Debug\de\Coding4Fun.Toolkit.Controls.resources.dll
+E:\App Project\Transl8\Transl8\Bin\Debug\es\Coding4Fun.Toolkit.Controls.resources.dll
+E:\App Project\Transl8\Transl8\Bin\Debug\fr\Coding4Fun.Toolkit.Controls.resources.dll
+E:\App Project\Transl8\Transl8\Bin\Debug\it\Coding4Fun.Toolkit.Controls.resources.dll
+E:\App Project\Transl8\Transl8\Bin\Debug\ko\Coding4Fun.Toolkit.Controls.resources.dll
+E:\App Project\Transl8\Transl8\Bin\Debug\no\Coding4Fun.Toolkit.Controls.resources.dll
+E:\App Project\Transl8\Transl8\Bin\Debug\pl\Coding4Fun.Toolkit.Controls.resources.dll
+E:\App Project\Transl8\Transl8\Bin\Debug\pt\Coding4Fun.Toolkit.Controls.resources.dll
+E:\App Project\Transl8\Transl8\Bin\Debug\ru\Coding4Fun.Toolkit.Controls.resources.dll
+E:\App Project\Transl8\Transl8\Bin\Debug\sk\Coding4Fun.Toolkit.Controls.resources.dll
+E:\App Project\Transl8\Transl8\obj\Debug\Transl8.csprojResolveAssemblyReference.cache
+C:\Users\duythanh\Desktop\Transl8\Transl8\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\duythanh\Desktop\Transl8\Transl8\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\duythanh\Desktop\Transl8\Transl8\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\duythanh\Desktop\Transl8\Transl8\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\duythanh\Desktop\Transl8\Transl8\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\duythanh\Desktop\Transl8\Transl8\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\duythanh\Desktop\Transl8\Transl8\Bin\Debug\Transl8.dll
+C:\Users\duythanh\Desktop\Transl8\Transl8\Bin\Debug\Transl8.pdb
+C:\Users\duythanh\Desktop\Transl8\Transl8\Bin\Debug\AppManifest.xaml
+C:\Users\duythanh\Desktop\Transl8\Transl8\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\duythanh\Desktop\Transl8\Transl8\Bin\Debug\Transl8_Debug_AnyCPU.xap
+C:\Users\duythanh\Desktop\Transl8\Transl8\Bin\Debug\Coding4Fun.Toolkit.Controls.dll
+C:\Users\duythanh\Desktop\Transl8\Transl8\Bin\Debug\Coding4Fun.Toolkit.dll
+C:\Users\duythanh\Desktop\Transl8\Transl8\Bin\Debug\cs\Coding4Fun.Toolkit.Controls.resources.dll
+C:\Users\duythanh\Desktop\Transl8\Transl8\Bin\Debug\da\Coding4Fun.Toolkit.Controls.resources.dll
+C:\Users\duythanh\Desktop\Transl8\Transl8\Bin\Debug\de\Coding4Fun.Toolkit.Controls.resources.dll
+C:\Users\duythanh\Desktop\Transl8\Transl8\Bin\Debug\es\Coding4Fun.Toolkit.Controls.resources.dll
+C:\Users\duythanh\Desktop\Transl8\Transl8\Bin\Debug\fr\Coding4Fun.Toolkit.Controls.resources.dll
+C:\Users\duythanh\Desktop\Transl8\Transl8\Bin\Debug\it\Coding4Fun.Toolkit.Controls.resources.dll
+C:\Users\duythanh\Desktop\Transl8\Transl8\Bin\Debug\ko\Coding4Fun.Toolkit.Controls.resources.dll
+C:\Users\duythanh\Desktop\Transl8\Transl8\Bin\Debug\no\Coding4Fun.Toolkit.Controls.resources.dll
+C:\Users\duythanh\Desktop\Transl8\Transl8\Bin\Debug\pl\Coding4Fun.Toolkit.Controls.resources.dll
+C:\Users\duythanh\Desktop\Transl8\Transl8\Bin\Debug\pt\Coding4Fun.Toolkit.Controls.resources.dll
+C:\Users\duythanh\Desktop\Transl8\Transl8\Bin\Debug\ru\Coding4Fun.Toolkit.Controls.resources.dll
+C:\Users\duythanh\Desktop\Transl8\Transl8\Bin\Debug\sk\Coding4Fun.Toolkit.Controls.resources.dll
+C:\Users\duythanh\Desktop\Transl8\Transl8\obj\Debug\Transl8.csprojResolveAssemblyReference.cache
+C:\Users\duythanh\Desktop\Transl8\Transl8\obj\Debug\App.g.cs
+C:\Users\duythanh\Desktop\Transl8\Transl8\obj\Debug\Pages\MainPage.g.cs
+C:\Users\duythanh\Desktop\Transl8\Transl8\obj\Debug\Transl8.g.resources
+C:\Users\duythanh\Desktop\Transl8\Transl8\obj\Debug\Transl8.Resources.AppResources.resources
+C:\Users\duythanh\Desktop\Transl8\Transl8\obj\Debug\Transl8.csproj.GenerateResource.Cache
+C:\Users\duythanh\Desktop\Transl8\Transl8\obj\Debug\Transl8.dll
+C:\Users\duythanh\Desktop\Transl8\Transl8\obj\Debug\Transl8.pdb
+C:\Users\duythanh\Desktop\Transl8\Transl8\obj\Debug\XapCacheFile.xml
+F:\WinPhone\Transl8\Transl8\Bin\Debug\Assets\ApplicationIcon.png
+F:\WinPhone\Transl8\Transl8\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+F:\WinPhone\Transl8\Transl8\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+F:\WinPhone\Transl8\Transl8\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+F:\WinPhone\Transl8\Transl8\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+F:\WinPhone\Transl8\Transl8\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+F:\WinPhone\Transl8\Transl8\Bin\Debug\Transl8.dll
+F:\WinPhone\Transl8\Transl8\Bin\Debug\Transl8.pdb
+F:\WinPhone\Transl8\Transl8\Bin\Debug\AppManifest.xaml
+F:\WinPhone\Transl8\Transl8\Bin\Debug\Properties\WMAppManifest.xml
+F:\WinPhone\Transl8\Transl8\Bin\Debug\Transl8_Debug_AnyCPU.xap
+F:\WinPhone\Transl8\Transl8\Bin\Debug\Coding4Fun.Toolkit.Controls.dll
+F:\WinPhone\Transl8\Transl8\Bin\Debug\Coding4Fun.Toolkit.dll
+F:\WinPhone\Transl8\Transl8\Bin\Debug\cs\Coding4Fun.Toolkit.Controls.resources.dll
+F:\WinPhone\Transl8\Transl8\Bin\Debug\da\Coding4Fun.Toolkit.Controls.resources.dll
+F:\WinPhone\Transl8\Transl8\Bin\Debug\de\Coding4Fun.Toolkit.Controls.resources.dll
+F:\WinPhone\Transl8\Transl8\Bin\Debug\es\Coding4Fun.Toolkit.Controls.resources.dll
+F:\WinPhone\Transl8\Transl8\Bin\Debug\fr\Coding4Fun.Toolkit.Controls.resources.dll
+F:\WinPhone\Transl8\Transl8\Bin\Debug\it\Coding4Fun.Toolkit.Controls.resources.dll
+F:\WinPhone\Transl8\Transl8\Bin\Debug\ko\Coding4Fun.Toolkit.Controls.resources.dll
+F:\WinPhone\Transl8\Transl8\Bin\Debug\no\Coding4Fun.Toolkit.Controls.resources.dll
+F:\WinPhone\Transl8\Transl8\Bin\Debug\pl\Coding4Fun.Toolkit.Controls.resources.dll
+F:\WinPhone\Transl8\Transl8\Bin\Debug\pt\Coding4Fun.Toolkit.Controls.resources.dll
+F:\WinPhone\Transl8\Transl8\Bin\Debug\ru\Coding4Fun.Toolkit.Controls.resources.dll
+F:\WinPhone\Transl8\Transl8\Bin\Debug\sk\Coding4Fun.Toolkit.Controls.resources.dll
+F:\WinPhone\Transl8\Transl8\obj\Debug\Transl8.csprojResolveAssemblyReference.cache
+F:\WinPhone\Transl8\Transl8\obj\Debug\App.g.cs
+F:\WinPhone\Transl8\Transl8\obj\Debug\Pages\MainPage.g.cs
+F:\WinPhone\Transl8\Transl8\obj\Debug\Transl8.g.resources
+F:\WinPhone\Transl8\Transl8\obj\Debug\Transl8.Resources.AppResources.resources
+F:\WinPhone\Transl8\Transl8\obj\Debug\Transl8.csproj.GenerateResource.Cache
+F:\WinPhone\Transl8\Transl8\obj\Debug\Transl8.dll
+F:\WinPhone\Transl8\Transl8\obj\Debug\Transl8.pdb
+F:\WinPhone\Transl8\Transl8\obj\Debug\XapCacheFile.xml
+C:\Users\tungnt92\Desktop\Transl8\Transl8\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\tungnt92\Desktop\Transl8\Transl8\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\tungnt92\Desktop\Transl8\Transl8\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\tungnt92\Desktop\Transl8\Transl8\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\tungnt92\Desktop\Transl8\Transl8\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\tungnt92\Desktop\Transl8\Transl8\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\tungnt92\Desktop\Transl8\Transl8\Bin\Debug\Transl8.dll
+C:\Users\tungnt92\Desktop\Transl8\Transl8\Bin\Debug\Transl8.pdb
+C:\Users\tungnt92\Desktop\Transl8\Transl8\Bin\Debug\AppManifest.xaml
+C:\Users\tungnt92\Desktop\Transl8\Transl8\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\tungnt92\Desktop\Transl8\Transl8\Bin\Debug\Transl8_Debug_AnyCPU.xap
+C:\Users\tungnt92\Desktop\Transl8\Transl8\Bin\Debug\Coding4Fun.Toolkit.Controls.dll
+C:\Users\tungnt92\Desktop\Transl8\Transl8\Bin\Debug\Coding4Fun.Toolkit.dll
+C:\Users\tungnt92\Desktop\Transl8\Transl8\Bin\Debug\cs\Coding4Fun.Toolkit.Controls.resources.dll
+C:\Users\tungnt92\Desktop\Transl8\Transl8\Bin\Debug\da\Coding4Fun.Toolkit.Controls.resources.dll
+C:\Users\tungnt92\Desktop\Transl8\Transl8\Bin\Debug\de\Coding4Fun.Toolkit.Controls.resources.dll
+C:\Users\tungnt92\Desktop\Transl8\Transl8\Bin\Debug\es\Coding4Fun.Toolkit.Controls.resources.dll
+C:\Users\tungnt92\Desktop\Transl8\Transl8\Bin\Debug\fr\Coding4Fun.Toolkit.Controls.resources.dll
+C:\Users\tungnt92\Desktop\Transl8\Transl8\Bin\Debug\it\Coding4Fun.Toolkit.Controls.resources.dll
+C:\Users\tungnt92\Desktop\Transl8\Transl8\Bin\Debug\ko\Coding4Fun.Toolkit.Controls.resources.dll
+C:\Users\tungnt92\Desktop\Transl8\Transl8\Bin\Debug\no\Coding4Fun.Toolkit.Controls.resources.dll
+C:\Users\tungnt92\Desktop\Transl8\Transl8\Bin\Debug\pl\Coding4Fun.Toolkit.Controls.resources.dll
+C:\Users\tungnt92\Desktop\Transl8\Transl8\Bin\Debug\pt\Coding4Fun.Toolkit.Controls.resources.dll
+C:\Users\tungnt92\Desktop\Transl8\Transl8\Bin\Debug\ru\Coding4Fun.Toolkit.Controls.resources.dll
+C:\Users\tungnt92\Desktop\Transl8\Transl8\Bin\Debug\sk\Coding4Fun.Toolkit.Controls.resources.dll
+C:\Users\tungnt92\Desktop\Transl8\Transl8\obj\Debug\Transl8.csprojResolveAssemblyReference.cache
+C:\Users\tungnt92\Desktop\Transl8\Transl8\obj\Debug\App.g.cs
+C:\Users\tungnt92\Desktop\Transl8\Transl8\obj\Debug\Pages\MainPage.g.cs
+C:\Users\tungnt92\Desktop\Transl8\Transl8\obj\Debug\Transl8.g.resources
+C:\Users\tungnt92\Desktop\Transl8\Transl8\obj\Debug\Transl8.Resources.AppResources.resources
+C:\Users\tungnt92\Desktop\Transl8\Transl8\obj\Debug\Transl8.csproj.GenerateResource.Cache
+C:\Users\tungnt92\Desktop\Transl8\Transl8\obj\Debug\Transl8.dll
+C:\Users\tungnt92\Desktop\Transl8\Transl8\obj\Debug\Transl8.pdb
+C:\Users\tungnt92\Desktop\Transl8\Transl8\obj\Debug\XapCacheFile.xml
